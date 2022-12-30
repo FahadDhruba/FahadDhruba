@@ -5,3 +5,6 @@ I am a passionate learner currently exploring the world of backend development. 
 <h1>What I Know</h1>
 
 HTML CSS
+
+[![Learn More](https://img.shields.io/badge/-Learn%20More-blue)](https://www.example.com)
+
