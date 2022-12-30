@@ -17,4 +17,4 @@ I am a passionate learner currently exploring the world of backend development. 
 <h1>Contact Me</h1>
 
 [![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/FahadAlamgir.Dhruba2.O/)
-[![Gmail](https://img.shields.io/badge/-Gmail-Red)](dhruba.fahad2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-Red)](mailto:dhruba.fahad2004@gmail.com)
