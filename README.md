@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm Fahad, a passionate and dedicated Statistics student at Rajshahi University, Bangladesh. With a robust foundation in both theoretical knowledge and practical skills, I am carving a niche for myself in the world of web development and data analysis.
 
+It is the storage of my code. This code is only mine. Only mine. No Once ever could have my code. This code will never leave me ``I guess``.
+
 ## Skills and Technologies
 My journey in web development began with the basics - HTML and CSS. I quickly moved on to mastering Tailwind CSS, which I prefer for its utility-first approach and design flexibility. JavaScript added interactivity to my projects, and Python - my strongest language - has been pivotal in developing backend functionalities and data analysis tasks. PHP rounded out my full-stack capabilities.
 
